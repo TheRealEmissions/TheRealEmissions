@@ -144,7 +144,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=therealemissions.therealemissions&left_color=aliceblue&right_color=aliceblue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=therealemissions.therealemissions"  />
 </div>
 
 ###
