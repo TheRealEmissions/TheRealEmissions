@@ -1,5 +1,3 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealemissions" alt="therealemissions" /></a> </p>
-
 ### **<div align="center">I'm Liam.</div>**  
   
 
@@ -56,7 +54,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=therealemissions&show_icons=true&count_private=true&hide_border=true" align="left" />
 
-</td></tr></table>  
+</td></tr></table>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealemissions" alt="therealemissions" /></a> </p>
 
 <br/>  
 
