@@ -1,12 +1,3 @@
-<h1 align="center">I'm Liam.</h1>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therealemissions&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=therealemissions&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&custom_title=The%20languages%20I%20use" height="150" alt="languages graph"  />
-</div>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therealemissions&label=Profile%20views&color=0e75b6&style=flat" alt="therealemissions" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealemissions" alt="therealemissions" /></a> </p>
@@ -22,4 +13,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=therealemissions&show_icons=true&locale=en&layout=compact" alt="therealemissions" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=therealemissions&show_icons=true&locale=en" alt="therealemissions" /></p>
-
