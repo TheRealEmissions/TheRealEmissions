@@ -135,13 +135,14 @@
   <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /></a>
 </p>
 
-### Frameworks & Platforms
+### Frameworks, Runtimes & Platforms
 
 <p>
   <a href="https://dotnet.microsoft.com/"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
   <a href="https://micronaut.io/"><img alt="Micronaut" src="https://img.shields.io/badge/Micronaut-00A1E0?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAMAAAAOusbgAAAAIGNIUk0AAHomAACAhAAA%2BgAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAGUExURf%2F%2F%2FwAAAFXC034AAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAAXEgAAFxIBZ5%2FSUgAAAAd0SU1FB%2BkJCQULHQu%2BuugAAAMbelRYdFJhdyBwcm9maWxlIHR5cGUgeG1wAABIicVWTdabMAzc6xQ9AkiyhI9DMOz6Xpc9fkdyfkjgS9N20fDiEFsej%2F4G6Of3H%2FQNn5F1Illk88kHG03sYsWVB2Mr5lZtlca8bpfLZWPGfDWNmeJStMmgzQcV2E5WSSefHRuL%2BKxrUcMvAEWwiVk2WXmQxSeZfTJstBaH2chD%2FLfFVpdYozgBbNS24CFzX7ibJ5MHDOYusUPvO3gok7YyEAe5zXNKKq8ycgOfAZdgxnOuiuEL92USNzPhBWss8S28hS3lj3HL6VlKjiNmhpeLr04yuJjMhVXVHg5SetgXw8nJFRfA4NTm%2BeHVYcRr8nYcPIIdrqTAGBljow7CzcWRpYiLT3AOkYr1ZxaggIQhHWw141URJ1jEOoUBgs04D%2BENVj28%2B4xEmI9887D1lihCkFdU0GYNrkzgMwR5BHi4ZewBiS1yEoABFAC0PLwPQ4wFG0sUQLiKUzvweARGVU3YC0YulLe%2FJf7Ee7e9746j6NyJHhdtaIQPj6Cz2ACwnYCLqxa3npJXcPrSgRfw6FNH0mGzFc4yiDwz7EvAUw9p1Ew%2FP87QqJQCoIgDlzhks%2BXQY0%2BxogxW9IxFZiSaAU2YotILNM24fnFQUe2%2F2f339oPGoPRzLJqNG30XI%2B5zvlzv97ANHFHZ1czrDfcD2DHH%2BgpLO9xUIOuQ459C0xE7G2GG6kS9t4DLdNe4hwCXLMkVnRDu3QNOt%2BqMEEZuYnv3%2Bspml88s0FkjCZLs10w%2BAiONmLsRKqimuM%2FgM4ZGWjhUQ%2FRgzlBGqI4oLgnZwQp0DbqOuygHwiZNIS2IQqiOHhhE5Yjf27gz2BEIXVL6WwavBOiEQQS59uca4rD8D0a3h%2BCOFZ6dmRmw8%2Fry%2FECmfHyeswWVDcceAhH6LTdZz%2FrZ9ZX1MOyt76VA%2B1r4l1Kgd37LgYE7yrd0rs%2BNQx%2F3%2Bh4uegB3gB3DcaiUX4XtvWh9oll0Fa3r6wtvZ7lJ4X2bUd7o%2FeP4AJ%2BvDg%2F4x1sTdRXqSyfvbnC8v6WFasRrF%2F0C%2B3hJFyd705MAAAI3SURBVGje7ZvRlsMgCETl%2F3%2B6b3saIzjIgNlUn9omdVIUuaBtDW8iIqtXI03E6tu%2BGtfV%2BravHuEj%2FMxZfdrutmtcd00p2SsstM7gqAcJY4%2Bm9OT7eGE4lKVP%2FWXzTsHF1BaWBXeiCPODy%2FQ2n%2FD3vWjcEmMaLXk3bKy4Y3ZSdYtMJhSYxk8WNjrP%2F8EWgb0gMPUyd91EyMxmAnXVTLb90B0eLpwBNEiAeRJJ8aE1KzWMVUReiPKtC%2Fa5s%2B7SRwcZXNtgzjymNAiN0QkEC%2BvQ9ffGcNr7Ff1O%2FZsyZj9xCa8E66Gw2IAUE9bfQMIEEuxeA8I08BwhKJzaUIXRgcSMIryunHfzl2%2F0MZd1rTXsvcUjl%2B0pj%2Bpx6a3CPA5xmproQDIEDMu9hpE45ArXkIIPcR8PoywnO4QNshkLtxphm%2FJIIOvz4g48iDHja3LXLMYXhgDchoY50rWyWl%2FHTWVxr%2BOmVivs5AUKm1TWEntAZ2Qe%2BLykCCPZohowA9wPZYsZg2fkTsKQm5fvRUvYafkxJiz3lDpJuDmFsb3WqbCWsE%2BZZ%2Fbp5MSI%2BUCOrwlhm8BRLCMDBlwefEQxs145aD92Gr%2FdKhzUQlgyQ3hl%2B0doe1H%2FRZi237gwFsJ3nlFgeFhtimvgbQcBKoTZ5fuyNW%2BlzsRaAby%2Fcf1Qk9doI8yOzcTgea71CcEVNgA1U9iFxtETbMDaEThCiU0n74YwO8XdxnA%2FhfLtHNN%2FZzt%2FOzrC529HVTUPp%2B4HQawHXTv6CJYAAAAASUVORK5CYII%3D" /></a>
   <a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
+  <a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
 </p>
 
 ### APIs
@@ -212,17 +213,21 @@
   <a href="https://docs.github.com/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /></a>
   <a href="https://maven.apache.org/"><img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" /></a>
   <a href="https://gradle.org/"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" /></a>
-  <a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
   <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
   <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
   <a href="https://brew.sh/"><img alt="Homebrew" src="https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black" /></a>
 </p>
 
-### Quality & Observability
+### Observability
 
 <p>
   <a href="https://prometheus.io/"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /></a>
   <a href="https://grafana.com/"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
+</p>
+
+### Quality
+
+<p>
   <a href="https://www.sonarsource.com/products/sonarqube/"><img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonar&logoColor=white" /></a>
   <a href="https://www.jetbrains.com/qodana/"><img alt="Qodana" src="https://img.shields.io/badge/Qodana-000000?style=for-the-badge&logo=jetbrains&logoColor=white" /></a>
 </p>
