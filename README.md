@@ -141,6 +141,42 @@
   <a href="https://micronaut.io/"><img alt="Micronaut" src="https://img.shields.io/badge/Micronaut-00A1E0?style=for-the-badge&logo=micronaut&logoColor=white" /></a>
 </p>
 
+### Cloud & Messaging
+
+<p>
+  <a href="https://cloud.google.com/"><img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
+  <a href="https://cloud.google.com/pubsub"><img alt="Pub/Sub" src="https://img.shields.io/badge/Pub%2FSub-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
+  <a href="https://kafka.apache.org/"><img alt="Apache Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /></a>
+</p>
+
+### Systems & Infrastructure
+
+<p>
+  <a href="https://www.kernel.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+  <a href="https://www.microsoft.com/windows"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" /></a>
+  <a href="https://www.apple.com/macos/"><img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
+  <a href="https://www.openssh.com/"><img alt="SSH" src="https://img.shields.io/badge/SSH-231F20?style=for-the-badge&logo=openssh&logoColor=white" /></a>
+  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+</p>
+
+### Data & Config
+
+<p>
+  <a href="https://www.json.org/"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" /></a>
+  <a href="https://toml.io/"><img alt="TOML" src="https://img.shields.io/badge/TOML-9C4121?style=for-the-badge&logo=toml&logoColor=white" /></a>
+  <a href="https://yaml.org/"><img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" /></a>
+</p>
+
+### Databases
+
+<p>
+  <a href="https://cloud.google.com/bigquery"><img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" /></a>
+  <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a href="https://mariadb.org/"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></a>
+</p>
+
 ### Tooling
 
 <p>
