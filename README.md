@@ -133,6 +133,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" /></a>
   <a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
+  <a href="https://www.latex-project.org/"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /></a>
   <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /></a>
 </p>
 
@@ -245,6 +246,7 @@
   <a href="https://detekt.dev/"><img alt="Detekt" src="https://img.shields.io/badge/Detekt-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a>
   <a href="https://pinterest.github.io/ktlint/"><img alt="ktlint" src="https://img.shields.io/badge/ktlint-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a>
   <a href="https://eslint.org/"><img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" /></a>
+  <a href="https://prettier.io/"><img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" /></a>
 </p>
 
 ### IDEs
