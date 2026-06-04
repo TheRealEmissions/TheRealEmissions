@@ -1,77 +1,142 @@
-### **<div align="center">I'm Liam.</div>**  
-  
-
-<br/>  
-
-
-
-### Languages and Tools  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/therealemissions" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-</a>  
-</div>  
-  
 
-<br/>  
+# Liam Martin
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealemissions&hide_border=true&layout=compact" align="center" /></div>
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=therealemissions&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td></tr></table>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealemissions" alt="therealemissions" /></a> </p>
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=therealemissions&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
+<strong>Open source dashboard for JVM tooling, developer utilities, terminal apps, and web experiments.</strong>
 
 <br />
+
+<a href="https://github.com/LMLiam">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-LMLiam-181717?style=for-the-badge&logo=github" />
+</a>
+</a>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=LMLiam&style=for-the-badge&color=2f80ed" />
+
+</div>
+
+---
+
+## Project Dashboard
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LMLiam/microsmith">microsmith</a></h3>
+      <p>A modular Kotlin DSL kernel for defining and composing microservice models, with plugin-driven validation and code generation.</p>
+      <p>
+        <img alt="Release" src="https://img.shields.io/github/v/release/LMLiam/microsmith?style=flat-square&label=release&logo=github" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/LMLiam/microsmith?style=flat-square" />
+        <img alt="Top language" src="https://img.shields.io/github/languages/top/LMLiam/microsmith?style=flat-square" />
+        <img alt="License" src="https://img.shields.io/github/license/LMLiam/microsmith?style=flat-square" />
+      </p>
+      <p>
+        <img alt="Stars" src="https://img.shields.io/github/stars/LMLiam/microsmith?style=flat-square" />
+        <img alt="Issues" src="https://img.shields.io/github/issues/LMLiam/microsmith?style=flat-square" />
+        <img alt="Repo size" src="https://img.shields.io/github/repo-size/LMLiam/microsmith?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LMLiam/remote-monitor">remote-monitor</a></h3>
+      <p>A Go-based terminal UI for monitoring remote Linux system resources over SSH.</p>
+      <p>
+        <img alt="Release" src="https://img.shields.io/github/v/release/LMLiam/remote-monitor?style=flat-square&label=release&logo=github" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/LMLiam/remote-monitor?style=flat-square" />
+        <img alt="Top language" src="https://img.shields.io/github/languages/top/LMLiam/remote-monitor?style=flat-square" />
+        <img alt="License" src="https://img.shields.io/github/license/LMLiam/remote-monitor?style=flat-square" />
+      </p>
+      <p>
+        <img alt="Stars" src="https://img.shields.io/github/stars/LMLiam/remote-monitor?style=flat-square" />
+        <img alt="Issues" src="https://img.shields.io/github/issues/LMLiam/remote-monitor?style=flat-square" />
+        <img alt="Go module" src="https://img.shields.io/github/go-mod/go-version/LMLiam/remote-monitor?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LMLiam/SPI-Tooling">SPI-Tooling</a></h3>
+      <p>Annotation-driven ServiceLoader automation for JVM projects.</p>
+      <p>
+        <img alt="Release" src="https://img.shields.io/github/v/release/LMLiam/SPI-Tooling?style=flat-square&label=release&logo=github" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/LMLiam/SPI-Tooling?style=flat-square" />
+        <img alt="Top language" src="https://img.shields.io/github/languages/top/LMLiam/SPI-Tooling?style=flat-square" />
+        <img alt="License" src="https://img.shields.io/github/license/LMLiam/SPI-Tooling?style=flat-square" />
+      </p>
+      <p>
+        <img alt="Stars" src="https://img.shields.io/github/stars/LMLiam/SPI-Tooling?style=flat-square" />
+        <img alt="Issues" src="https://img.shields.io/github/issues/LMLiam/SPI-Tooling?style=flat-square" />
+        <img alt="Repo size" src="https://img.shields.io/github/repo-size/LMLiam/SPI-Tooling?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LMLiam/KyoriAdventureDSL">KyoriAdventureDSL</a></h3>
+      <p>A library that adds DSL compatibility to Kyori Adventure.</p>
+      <p>
+        <img alt="Release" src="https://img.shields.io/github/v/release/LMLiam/KyoriAdventureDSL?style=flat-square&label=release&logo=github" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/LMLiam/KyoriAdventureDSL?style=flat-square" />
+        <img alt="Top language" src="https://img.shields.io/github/languages/top/LMLiam/KyoriAdventureDSL?style=flat-square" />
+        <img alt="License" src="https://img.shields.io/github/license/LMLiam/KyoriAdventureDSL?style=flat-square" />
+      </p>
+      <p>
+        <img alt="Stars" src="https://img.shields.io/github/stars/LMLiam/KyoriAdventureDSL?style=flat-square" />
+        <img alt="Issues" src="https://img.shields.io/github/issues/LMLiam/KyoriAdventureDSL?style=flat-square" />
+        <img alt="Repo size" src="https://img.shields.io/github/repo-size/LMLiam/KyoriAdventureDSL?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LMLiam/PooledCompletableFuture">PooledCompletableFuture</a></h3>
+      <p>A Java wrapper around CompletableFuture for easier pooled asynchronous operations.</p>
+      <p>
+        <img alt="Release" src="https://img.shields.io/github/v/release/LMLiam/PooledCompletableFuture?style=flat-square&label=release&logo=github" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/LMLiam/PooledCompletableFuture?style=flat-square" />
+        <img alt="Top language" src="https://img.shields.io/github/languages/top/LMLiam/PooledCompletableFuture?style=flat-square" />
+        <img alt="License" src="https://img.shields.io/github/license/LMLiam/PooledCompletableFuture?style=flat-square" />
+      </p>
+      <p>
+        <img alt="Stars" src="https://img.shields.io/github/stars/LMLiam/PooledCompletableFuture?style=flat-square" />
+        <img alt="Issues" src="https://img.shields.io/github/issues/LMLiam/PooledCompletableFuture?style=flat-square" />
+        <img alt="Repo size" src="https://img.shields.io/github/repo-size/LMLiam/PooledCompletableFuture?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LMLiam/Casino-Warehouse">Casino-Warehouse</a></h3>
+      <p>A TypeScript casino game workspace with PixiJS, Vite, WebSockets, multiplayer flows, and visual testing.</p>
+      <p>
+        <img alt="Release" src="https://img.shields.io/github/v/release/LMLiam/Casino-Warehouse?style=flat-square&label=release&logo=github" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/LMLiam/Casino-Warehouse?style=flat-square" />
+        <img alt="Top language" src="https://img.shields.io/github/languages/top/LMLiam/Casino-Warehouse?style=flat-square" />
+        <img alt="License" src="https://img.shields.io/github/license/LMLiam/Casino-Warehouse?style=flat-square" />
+      </p>
+      <p>
+        <img alt="Stars" src="https://img.shields.io/github/stars/LMLiam/Casino-Warehouse?style=flat-square" />
+        <img alt="Issues" src="https://img.shields.io/github/issues/LMLiam/Casino-Warehouse?style=flat-square" />
+        <img alt="Repo size" src="https://img.shields.io/github/repo-size/LMLiam/Casino-Warehouse?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Tooling Snapshot
+
+<p>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+## GitHub Activity
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LMLiam&show_icons=true&hide_border=true&rank_icon=github" />
+    </td>
+    <td width="50%" valign="top">
+      <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMLiam&hide_border=true&layout=compact&langs_count=8" />
+    </td>
+  </tr>
+</table>
