@@ -66,19 +66,19 @@
       <p><a href="https://github.com/LMLiam/SPI-Tooling/releases/latest">Releases</a> | <a href="https://github.com/LMLiam/SPI-Tooling#readme">README</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/LMLiam/KyoriAdventureDSL">KyoriAdventureDSL</a></h3>
-      <p>DSL helpers for <a href="https://github.com/KyoriPowered/adventure">Kyori Adventure</a>.</p>
-      <p>
-        <a href="https://github.com/LMLiam/KyoriAdventureDSL"><img alt="Type: Library" src="https://img.shields.io/badge/type-library-555?style=flat-square" /></a>
-        <a href="https://github.com/LMLiam/KyoriAdventureDSL/releases"><img alt="Release status" src="https://img.shields.io/badge/status-unreleased-lightgrey?style=flat-square" /></a>
-        <a href="https://github.com/LMLiam/KyoriAdventureDSL/commits/master"><img alt="Last commit" src="https://img.shields.io/github/last-commit/LMLiam/KyoriAdventureDSL?style=flat-square" /></a>
-        <a href="https://github.com/LMLiam/KyoriAdventureDSL"><img alt="Top language" src="https://img.shields.io/github/languages/top/LMLiam/KyoriAdventureDSL?style=flat-square" /></a>
-      </p>
-      <p>
-        <a href="https://github.com/LMLiam/KyoriAdventureDSL/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/LMLiam/KyoriAdventureDSL?style=flat-square" /></a>
-        <a href="https://github.com/LMLiam/KyoriAdventureDSL/issues"><img alt="Issues" src="https://img.shields.io/github/issues/LMLiam/KyoriAdventureDSL?style=flat-square" /></a>
-      </p>
-      <p><a href="https://github.com/LMLiam/KyoriAdventureDSL#readme">README</a> | <a href="https://github.com/KyoriPowered/adventure">Kyori Adventure</a></p>
+<h3><a href="https://github.com/LMLiam/Kotventure">Kotventure</a></h3>
+<p>Batteries-included <a href="https://kotlinlang.org/">Kotlin</a> DSL for <a href="https://github.com/PaperMC/adventure">Adventure</a>-native Minecraft text, UI, messaging, and testing tools.</p>
+<p>
+  <a href="https://github.com/LMLiam/Kotventure"><img alt="Type: Library" src="https://img.shields.io/badge/type-library-555?style=flat-square" /></a>
+  <a href="https://github.com/LMLiam/Kotventure/releases"><img alt="Status: Pre-alpha" src="https://img.shields.io/badge/status-pre--alpha-orange?style=flat-square" /></a>
+  <a href="https://github.com/LMLiam/Kotventure/commits/master"><img alt="Last commit" src="https://img.shields.io/github/last-commit/LMLiam/Kotventure?style=flat-square" /></a>
+  <a href="https://github.com/LMLiam/Kotventure"><img alt="Top language" src="https://img.shields.io/github/languages/top/LMLiam/Kotventure?style=flat-square" /></a>
+</p>
+<p>
+  <a href="https://github.com/LMLiam/Kotventure/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/LMLiam/Kotventure?style=flat-square" /></a>
+  <a href="https://github.com/LMLiam/Kotventure/issues"><img alt="Issues" src="https://img.shields.io/github/issues/LMLiam/Kotventure?style=flat-square" /></a>
+</p>
+<p><a href="https://github.com/LMLiam/Kotventure#readme">README</a> | <a href="https://github.com/users/LMLiam/projects/6">Roadmap</a> | <a href="https://github.com/PaperMC/adventure">Adventure</a></p>
     </td>
   </tr>
   <tr>
