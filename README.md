@@ -98,20 +98,20 @@
       <p><a href="https://github.com/LMLiam/PooledCompletableFuture#readme">README</a> | <a href="https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/concurrent/CompletableFuture.html">CompletableFuture</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/LMLiam/Casino-Warehouse">Casino-Warehouse</a></h3>
-      <p>A <a href="https://www.typescriptlang.org/">TypeScript</a> casino game workspace built with <a href="https://pixijs.com/">PixiJS</a> and <a href="https://vite.dev/">Vite</a>.</p>
+      <h3><a href="https://github.com/LMLiam/clamshellctl">clamshellctl</a></h3>
+      <p>A <a href="https://www.swift.org/">Swift</a> CLI for controlling battery clamshell mode on <a href="https://www.apple.com/macos/">macOS</a>.</p>
       <p>
-        <a href="https://github.com/LMLiam/Casino-Warehouse"><img alt="Type: Game" src="https://img.shields.io/badge/type-game-555?style=flat-square" /></a>
-        <a href="https://github.com/LMLiam/Casino-Warehouse/releases"><img alt="Release status" src="https://img.shields.io/badge/status-unreleased-lightgrey?style=flat-square" /></a>
-        <a href="https://github.com/LMLiam/Casino-Warehouse/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/LMLiam/Casino-Warehouse?style=flat-square" /></a>
-        <a href="https://github.com/LMLiam/Casino-Warehouse"><img alt="Top language" src="https://img.shields.io/github/languages/top/LMLiam/Casino-Warehouse?style=flat-square" /></a>
-        <a href="https://github.com/LMLiam/Casino-Warehouse/blob/main/LICENSE"><img alt="License: PolyForm Noncommercial 1.0.0" src="https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-blue?style=flat-square" /></a>
+        <a href="https://github.com/LMLiam/clamshellctl"><img alt="Type: CLI" src="https://img.shields.io/badge/type-CLI-555?style=flat-square" /></a>
+        <a href="https://github.com/LMLiam/clamshellctl/releases"><img alt="Release status" src="https://img.shields.io/badge/status-active%20development-orange?style=flat-square" /></a>
+        <a href="https://github.com/LMLiam/clamshellctl/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/LMLiam/clamshellctl?style=flat-square" /></a>
+        <a href="https://github.com/LMLiam/clamshellctl"><img alt="Top language" src="https://img.shields.io/github/languages/top/LMLiam/clamshellctl?style=flat-square" /></a>
+        <a href="https://github.com/LMLiam/clamshellctl/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/LMLiam/clamshellctl?style=flat-square" /></a>
       </p>
       <p>
-        <a href="https://github.com/LMLiam/Casino-Warehouse/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/LMLiam/Casino-Warehouse?style=flat-square" /></a>
-        <a href="https://github.com/LMLiam/Casino-Warehouse/issues"><img alt="Issues" src="https://img.shields.io/github/issues/LMLiam/Casino-Warehouse?style=flat-square" /></a>
+        <a href="https://github.com/LMLiam/clamshellctl/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/LMLiam/clamshellctl?style=flat-square" /></a>
+        <a href="https://github.com/LMLiam/clamshellctl/issues"><img alt="Issues" src="https://img.shields.io/github/issues/LMLiam/clamshellctl?style=flat-square" /></a>
       </p>
-      <p><a href="https://github.com/LMLiam/Casino-Warehouse#readme">README</a> | <a href="https://github.com/LMLiam/Casino-Warehouse/blob/main/package.json">package.json</a></p>
+      <p><a href="https://github.com/LMLiam/clamshellctl#readme">README</a> | <a href="https://github.com/LMLiam/clamshellctl/blob/main/docs/clamshellctl-design.md">Design</a> | <a href="https://github.com/LMLiam/clamshellctl/issues">Roadmap</a></p>
     </td>
   </tr>
 </table>
@@ -123,6 +123,7 @@
 <p>
   <a href="https://docs.oracle.com/en/java/"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
   <a href="https://kotlinlang.org/"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a>
+  <a href="https://www.swift.org/"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" /></a>
   <a href="https://en.cppreference.com/w/c"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
   <a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
